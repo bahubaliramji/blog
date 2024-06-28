@@ -1,0 +1,9 @@
+cd blog
+    npm run serve
+
+
+router
+    npm i vue-router@next
+
+api axios
+    npm i axios
